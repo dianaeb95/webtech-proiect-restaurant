@@ -1,1 +1,1 @@
-# webtech-proiect-restaurant
+In proiectul meu am realizat 2 tabele prin sequelize, numite Clienti si Rezervari. Acestea au fost gandite pentru un restaurant. Proiectul permite adaugarea de clienti si adaugarea de rezervari, stergerea de clienti si de rezervari si, de asemenea, editarea unei rezervari. 
